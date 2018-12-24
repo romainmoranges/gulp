@@ -1,4 +1,5 @@
-# fac_evaluation_finale
+# Configuration de GULP
 
-url pour récupérer l'évaluation : 
-http://fac.gamuza.fr/
+Configuration basée sur celle de @tofulm
+
+(penser à faire npm install avant de commencer)
