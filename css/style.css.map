@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA;EAGY,eAAc;CACjB","file":"style.css","sourcesContent":["ul {\n    li{\n        a{\n            display: block;\n        }\n    }\n}"]}
